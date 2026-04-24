@@ -38,6 +38,7 @@ setup = function() {
   while(crossiantX < 300){
     text("🥐", crossiantX, 85);
     crossiantX += 40;
+    croissantY += 60;
   }
 
   var crossiantY = 60;
